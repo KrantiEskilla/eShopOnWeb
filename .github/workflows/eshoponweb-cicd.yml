@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: cb125dba-f410-485e-96f5-f7c2beb34c0b
-  WEBAPP-NAME: eshoponweb-kranti-learnazuregithubactions
+  WEBAPP-NAME: eshoponweb-webapp-kranti-learnazuregithubactions
 
 
 jobs:
