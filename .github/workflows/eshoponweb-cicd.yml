@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: cb125dba-f410-485e-96f5-f7c2beb34c0b
-  WEBAPP-NAME: webapp-eshoponwebkrantilearnazuregithubactions
+  WEBAPP-NAME:  eshoponweb-webapp-krantilearnazuregithubactions
 
 
 jobs:
